@@ -143,7 +143,7 @@
     - [Arithmetic](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
     - [Unary](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
     - [Relational](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
-    - [Logical]("https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python")
+    - [Logical](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
   - [List and its Properties](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
   - [Sets and its Properties](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
   - [Dictionary and its Properties](https://github.com/shreeshailaya/C-DAC-Notes/tree/main/Python)
